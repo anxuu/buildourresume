@@ -1,0 +1,47 @@
+.GD {
+    display: flex;
+    gap: 50px;
+}
+
+.main {
+    padding-left: 2rem;
+}
+
+.CPP {
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    width: 3%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+
+}
+
+.form-group {
+    gap: 2rem;
+}
+
+.education {
+    background-color: antiquewhite;
+}
+
+.educss {
+    padding-left: 2rem;
+    border: 5px solid red;
+
+}
+
+
+
+.project {
+    background-color: antiquewhite;
+}
+
+.l2clr {
+    background-color: cornsilk;
+}
+
